@@ -5,3 +5,6 @@
 
 *.class
 *.log
+.idea/
+.vscode/
+*.iml
