@@ -1,4 +1,6 @@
+pages\dashboard.class
 utilities\Driverfactory.class
 runners\TestRunner.class
+stepdefinations\dashbaordStepdefination.class
 pages\hrmLoginpage.class
 stepdefinations\hrmLoginStepdefination.class
