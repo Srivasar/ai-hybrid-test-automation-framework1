@@ -10,5 +10,6 @@ public class hrmLoginpage {
     }
     public String getTitle(){
         return driver.getTitle();
+        //this is mine
     }
 }
