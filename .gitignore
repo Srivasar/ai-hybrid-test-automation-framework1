@@ -1,0 +1,10 @@
+/target/
+/logs/
+/reports/
+/screenshots/
+
+*.class
+*.log
+.idea/
+.vscode/
+*.iml
